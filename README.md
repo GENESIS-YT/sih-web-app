@@ -21,4 +21,22 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+### `database`
 
+to use own database change the file the firebaseCofig/index.\
+You can copy it from firebase if your using firebase or just modiy it by yourself. 
+
+const firebaseConfig = {
+
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+ };
+
+:+1:
+:thumbsup:
+:sunglasses:
